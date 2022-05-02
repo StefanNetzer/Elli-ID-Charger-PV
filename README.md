@@ -13,6 +13,8 @@ residential load and the charging power might exceed the local restrictions. The
 be wired to the Elli Charger. Since usually the critical installation point and the Elli Charger are
 located some distance apart, a data cable in needed to properly establish this wired connection.
 
+All information included here are origination from https://www.goingelectric.de/forum/viewtopic.php?f=105&t=75065
+
 This Workaround emulates a load of the house current (sounds funny to me native speakers ahead ;-) :
 
 Assuming we have set a maximum house current of 20A (Imax=20A) and are currently simulating a measured house current of 14A (Isim=14A) for the Elli, because we want it to charge with 6A (Isoll=6A).
